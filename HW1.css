@@ -1,0 +1,16 @@
+body, html {
+    scroll-behavior: smooth;
+}
+p.prgrf {
+    background: darkgrey;
+    color: white;
+}
+.point {
+    font-size: xx-large;
+}
+li{
+    font-size: 20px;
+}
+a:hover{
+    color: brown;
+}
