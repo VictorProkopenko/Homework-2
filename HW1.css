@@ -1,16 +1,22 @@
 body, html {
     scroll-behavior: smooth;
 }
-p.prgrf {
-    background: darkgrey;
-    color: white;
-}
 .point {
     font-size: xx-large;
+}
+h1 {
+    text-align: center;
+    width: 400px;
+    height: 120px;
 }
 li{
     font-size: 20px;
 }
 a:hover{
     color: brown;
+}
+p.prgrf {
+    background: darkgrey;
+    color: white;
+    font-size: 20px;
 }
