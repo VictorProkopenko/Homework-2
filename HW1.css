@@ -6,12 +6,12 @@ body, html {
 }
 h1 {
     text-align: center;
-    width: 400px;
-    height: 120px;
+    width: 500px;
+    height: 80px;
 }
 li{
-    font-size: 15px;
-    margin-left: 450px;
+    font-size: 20px;
+    /*margin-left: 450px;*/
 }
 a:hover{
     color: brown;
@@ -20,4 +20,5 @@ p.prgrf {
     background: darkgrey;
     color: white;
     font-size: 20px;
+    width: 500px;
 }
